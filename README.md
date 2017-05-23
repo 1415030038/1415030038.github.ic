@@ -11,3 +11,5 @@
 <li><a href="index6.html">项目五</a></li>
 
 <li><a href="index7">项目六</a></li>
+
+<li><a href="index8.html">项目七</a></li>
